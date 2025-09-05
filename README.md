@@ -1,5 +1,5 @@
 # Hey! 👋🏻  
-Tudo bem? Meu nome é Guilherme. Atualmente trabalho como Dev, mas meu real objetivo é me tornar um DevSecOps. 
+Tudo bem? Meu nome é Guilherme. Atualmente não trabalho como Dev, mas meu real objetivo é me tornar um DevSecOps. Mas por enquanto sou pobre!
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/guilherme-albuquerque-793995228/)](https://www.linkedin.com/in/guilherme-albuquerque-793995228/) &ensp; ![CodeWars](https://www.codewars.com/users/Like301/badges/small)
 <br>
